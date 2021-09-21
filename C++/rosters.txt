@@ -1,0 +1,6 @@
+Calculus|MATH151|4|Gary Berman|2
+David|clinton|19|Lower Junior|68|3.5|12/24/1997|8/29/2016
+Scott|James|15|Upper Sophomore|45|3.7|2/14/2000|8/25/2018
+
+Business Law|BUS261|3|Henya Spitz|1
+Yash|Joshi|9|Upper Sophomore|57|3.5|2/13/1999|1/29/2018
