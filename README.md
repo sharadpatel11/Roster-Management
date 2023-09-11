@@ -1,6 +1,5 @@
 # Roster-Management
 
-- This application allows the user to manage roster of students by adding, removing or updating a student. C++ program allows to have multiple unique rosters.
-- Uses object oriented programming concepts such as inheritance, encapsulation, Abstraction and polymorphism.
-- Data structure used are Array, Linked List and BST
-- It is a command line program for C++ and a GUI based program for Java
+- Developed versatile command-line and GUI-based program for the seamless creation and management of course rosters.
+- Designed and implemented a robust local database system, optimizing data storage and retrieval for enhanced efficiency.
+- Leveraged advanced object-oriented programming principles, including inheritance, encapsulation, abstraction, and polymorphism, to ensure code modularity and scalability.
